@@ -1,13 +1,16 @@
-* {
+/* Define o box-sizing para todos os elementos */
+*, *::before, *::after {
 	margin: 0;
 	padding: 0;
-	box-sizing: border-box;
+	box-sizing: inherit;
 }
 
+/* Remove os estilos padrão das listas */
 ul {
 	list-style: none;
 }
 
+/* Remove os estilos padrão dos links */
 a {
 	text-decoration: none;
 	color: inherit;
