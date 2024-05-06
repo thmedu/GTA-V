@@ -39,10 +39,3 @@ Projeto sobre o anime Avatar .
 
 
 
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
-
----
-
-Feito após curso da  ♥ by Dev em Dobro :wave:
