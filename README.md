@@ -1,41 +1,46 @@
-<h1 align="center"> Projeto GTA V </h1>
+# Projeto GTA V  🎮
 
-<p align="center">
-Projeto desenvolvido na Semana do 0 ao Programador no  canal DEV EM DOBRO <br/>
-</p>
+Projeto inspirado no jogo Grand Theft Auto V (GTA V), desenvolvido durante a Semana do 0 ao Programador no canal DEV EM DOBRO. O objetivo é recriar parte da atmosfera e estilo visual do jogo utilizando HTML, CSS e JavaScript para uma experiência interativa e imersiva.
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
+## 🚀  Tecnologias Utilizadas
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Git
+- GitHub
 
-<br>
+## 💻  Projeto
 
-<p align="center">
-<<<<<<< HEAD
-  <img alt="projeto GTAV" src="./src/img/layout.png" width="100%">
-</p>
+O projeto GTA V é uma recriação de elementos visuais e interativos do jogo Grand Theft Auto V. Foi desenvolvido para praticar habilidades em front-end, incluindo layout responsivo, animações CSS e manipulação de DOM com JavaScript para proporcionar uma interface dinâmica e envolvente aos usuários.
 
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- HTML, CSS e JS
-- Git e Github
-
-## 💻 Projeto
-
-Projeto sobre o anime Avatar .
-
-- [Acesse o projeto finalizado, online](https://github.com/williamsramos/projeto-GTAV)
-- [Acesse o site do projeto finalizado, online](https://williamsramos.github.io/projeto-GTAV/)
-- [Acesse o site do projeto finalizado, online](https://projeto-gtav.vercel.app)
+![9](https://github.com/thmedu/GTA-V/assets/141462806/7cb0c0dd-547d-4c1a-a415-c5821eb6203e)
 
 
+---
 
+## 🔧  Como Usar
+
+1. Clone este repositório para o seu computador:
+
+   ```bash
+   git clone https://github.com/seu-usuario/projeto-GTAV.git
+   ```
+
+2. Abra o arquivo `index.html` em seu navegador web para visualizar o projeto.
+
+3. Explore as funcionalidades e o layout inspirado no GTA V.
+
+---
+
+## 🤝  Contribuição
+
+Contribuições são bem-vindas! Se você tiver sugestões, melhorias ou encontrar problemas, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE.md](./LICENSE.md) para mais detalhes.
+
+---
+
+Este README.md está estruturado para fornecer uma visão completa do projeto, incluindo detalhes sobre as tecnologias utilizadas, como utilizar o projeto, imagens do layout, oportunidades de contribuição e informações sobre a licença. Certifique-se de personalizar os URLs, nomes de usuário e outras informações específicas do seu projeto.
