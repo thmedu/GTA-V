@@ -33,14 +33,8 @@ O projeto GTA V é uma recriação de elementos visuais e interativos do jogo Gr
 
 ---
 
-## 🤝  Contribuição
+## Autor ✍️
 
-Contribuições são bem-vindas! Se você tiver sugestões, melhorias ou encontrar problemas, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+Este projeto foi desenvolvido por [Thomas Nascimento].
 
-## 📄 Licença
 
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE.md](./LICENSE.md) para mais detalhes.
-
----
-
-Este README.md está estruturado para fornecer uma visão completa do projeto, incluindo detalhes sobre as tecnologias utilizadas, como utilizar o projeto, imagens do layout, oportunidades de contribuição e informações sobre a licença. Certifique-se de personalizar os URLs, nomes de usuário e outras informações específicas do seu projeto.
