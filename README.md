@@ -1,5 +1,8 @@
 # Projeto GTA V  🎮
 
+![Post minimalista marketing digital roxo branco e azul](https://github.com/thmedu/GTA-V/assets/141462806/1ffacd77-19ba-431f-b2c3-1d0e280cea75)
+
+
 Projeto inspirado no jogo Grand Theft Auto V (GTA V), desenvolvido durante a Semana do 0 ao Programador no canal DEV EM DOBRO. O objetivo é recriar parte da atmosfera e estilo visual do jogo utilizando HTML, CSS e JavaScript para uma experiência interativa e imersiva.
 
 ## 🚀  Tecnologias Utilizadas
@@ -13,9 +16,6 @@ Projeto inspirado no jogo Grand Theft Auto V (GTA V), desenvolvido durante a Sem
 ## 💻  Projeto
 
 O projeto GTA V é uma recriação de elementos visuais e interativos do jogo Grand Theft Auto V. Foi desenvolvido para praticar habilidades em front-end, incluindo layout responsivo, animações CSS e manipulação de DOM com JavaScript para proporcionar uma interface dinâmica e envolvente aos usuários.
-
-![Post minimalista marketing digital roxo branco e azul](https://github.com/thmedu/GTA-V/assets/141462806/1ffacd77-19ba-431f-b2c3-1d0e280cea75)
-
 
 ---
 
