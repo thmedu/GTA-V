@@ -14,7 +14,7 @@ Projeto inspirado no jogo Grand Theft Auto V (GTA V), desenvolvido durante a Sem
 
 O projeto GTA V é uma recriação de elementos visuais e interativos do jogo Grand Theft Auto V. Foi desenvolvido para praticar habilidades em front-end, incluindo layout responsivo, animações CSS e manipulação de DOM com JavaScript para proporcionar uma interface dinâmica e envolvente aos usuários.
 
-![9](https://github.com/thmedu/GTA-V/assets/141462806/7cb0c0dd-547d-4c1a-a415-c5821eb6203e)
+![Post minimalista marketing digital roxo branco e azul](https://github.com/thmedu/GTA-V/assets/141462806/1ffacd77-19ba-431f-b2c3-1d0e280cea75)
 
 
 ---
